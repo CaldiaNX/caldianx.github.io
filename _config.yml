@@ -1,8 +1,3 @@
 title: Caldia Config
 description: Caldia式プロパティ設定集。
 author: Caldia
-collections:
-  windows:
-    output: true
-  vrm:
-    output: true
