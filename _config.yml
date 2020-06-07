@@ -2,13 +2,7 @@ title: Caldia Config
 description: Caldia式プロパティ設定集。
 author: Caldia
 collections:
-  index:
-    permalink: "/:collection/:path/"
+  windows:
     output: true
-    - index.md
-    - install-notepadpp.md
-    - install-python.md
-    - install-mkdocs.md
-    - install-mkdocs-material.md
-    - markdown-sample.md
-    - mkdocs-yml-sample.md
+  vrm:
+    output: true
