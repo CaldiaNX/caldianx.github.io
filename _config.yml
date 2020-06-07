@@ -1,11 +1,12 @@
 title: Caldia Config
 description: Caldia式プロパティ設定集。
 author: Caldia
-pages: 
-  - 'はじめに': index.md
-  - 'Notepad++のインストール': install-notepadpp.md
-  - 'Pythonのインストール': install-python.md
-  - 'MkDocsのインストール': install-mkdocs.md
-  - 'Materialのインストール': install-mkdocs-material.md
-  - 'Markdownのサンプル': markdown-sample.md
-  - 'mkdocs.ymlのサンプル': mkdocs-yml-sample.md
+collections:
+  Index:
+    - index.md
+    - install-notepadpp.md
+    - install-python.md
+    - install-mkdocs.md
+    - install-mkdocs-material.md
+    - markdown-sample.md
+    - mkdocs-yml-sample.md
