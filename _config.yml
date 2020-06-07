@@ -2,7 +2,9 @@ title: Caldia Config
 description: Caldia式プロパティ設定集。
 author: Caldia
 collections:
-  Index:
+  index:
+    permalink: "/:collection/:path/"
+    output: true
     - index.md
     - install-notepadpp.md
     - install-python.md
