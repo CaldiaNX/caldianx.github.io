@@ -1,4 +1,4 @@
-# Windows8.1のインストール
+# Windows8.1 インストール
 
 このページでは`Windows8.1 Pro with Update`のインストールについて解説します。
 
