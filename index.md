@@ -89,9 +89,7 @@ Markdown記法がベースになります。
 ハイフンを3つ  
 ___
 アンダースコアを3つ  
-************************************************************
 * * *
-アスタリスク大量またはスペース含む
 ```
 
 *** 
@@ -102,9 +100,7 @@ ___
 ハイフンを3つ  
 ___
 アンダースコアを3つ  
-************************************************************
 * * *
-アスタリスク大量またはスペース含む
 
 !!! Tip
     意図しないマークアップになる可能性が高いので、水平線を使う場合は上下を空けるほうが良い。
@@ -176,36 +172,28 @@ Left         | Center        | Right
 ```md
 *   Red
 *   Green
-    *   Blue
+*   Blue
 ---
 +   Red
 +   Green
-    +   Blue
++   Blue
 ---
 -   Red
 -   Green
-    -   Blue
----
-1.  Bird
-1.  McHale
-    1.  Parish
+-   Blue
 ```
 
 *   Red
 *   Green
-    *   Blue
+*   Blue
 ---
 +   Red
 +   Green
-    +   Blue
++   Blue
 ---
 -   Red
 -   Green
-    -   Blue
----
-1.  Bird
-1.  McHale
-    1.  Parish
+-   Blue
 
 ## 画像
 
@@ -223,10 +211,6 @@ Left         | Center        | Right
 [![黄](img\sample_yellow.png "黄色ファイルにリンク")][yellow]
 [yellow]: img\sample_yellow.png "黄色"
 ```
-
-![赤](img\sample_red.png "赤色") ![青][blue] [![緑](img\sample_green.png "緑色ファイルにリンク")](img\sample_green.png) [![黄](img\sample_yellow.png "黄色ファイルにリンク")][yellow]
-[blue]:img\sample_blue.png "青色"
-[yellow]: img\sample_yellow.png "黄色"
 
 ## エスケープ
 
@@ -248,61 +232,6 @@ HTMLタグの`<!-- -->` を使ってコメントアウトします。
 
 <!-- コメントアウトを書きます -->
 
-
-## 警告文(Material利用)
-
-`admonition` オプションを有効にすることで`!!!`のマークダウンが利用できます。
-
-```md
-!!! Note
-    Noteです。
-
-!!! summary
-    summaryです。
-
-!!! Tip
-    Tipです。
-
-!!! Success
-    Successです。
-
-!!! Warning
-    Warningです
-
-!!! Failure
-    Failureです。
-
-!!! Danger
-    Dangerです。
-
-!!! Bug
-    Bugです。
-```
-
-!!! Note
-    Noteです。
-
-!!! summary
-    summaryです。
-
-!!! Tip
-    Tipです。
-
-!!! Success
-    Successです。
-
-!!! Warning
-    Warningです
-
-!!! Failure
-    Failureです。
-
-!!! Danger
-    Dangerです。
-
-!!! Bug
-    Bugです。
-
 ## 注釈(Material利用)
 
 `footnotes` オプションを有効にすることで`!!!`のマークダウンが利用できます。
@@ -318,24 +247,3 @@ HTMLタグの`<!-- -->` を使ってコメントアウトします。
 
 [^1]: 注釈を付ける単語は左右を半角で空ける  
 [^2]: 注釈はページの一番下
-
-## Keys(Material利用)
-
-`pymdownx.keys` オプションを有効にすることで `++keys++` のマークダウンが利用できます。  
-使用する際はマークアップの前後を半角スペースで空けます。  
-定義できるキーは [Keys - PyMdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/extensions/keys/) を参照ください。
-
-```md
-アプリケーションを強制終了するには ++ctrl+f4++ を押します。
-```
-
-アプリケーションを強制終了するには ++ctrl+f4++ を押します。
-
-## 参考リンク
-- [MkDocsによるドキュメント作成 - Qiita](https://qiita.com/mebiusbox2/items/a61d42878266af969e3c)
-- [MkDocs で生成したサイトをローカルで開くと index.html が開かれない問題 - stamemo](http://stakiran.hatenablog.com/entry/2018/08/02/202958)
-- [MkDocs Themes · mkdocs/mkdocs Wiki · GitHub](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-- [Icons - Material Design](https://material.io/resources/icons/?style=baseline)
-- [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/?hl=ja)
-- [MkDocsでドキュメント管理 - notebook](https://swfz.hatenablog.com/entry/2015/07/28/031712)
-- [Markdown記法まとめ(リスト、リンク、画像、インラインHTML、エスケープ)[2/3] - はしくれエンジニアもどきのメモ](https://cartman0.hatenablog.com/entry/2015/03/31/164836)
