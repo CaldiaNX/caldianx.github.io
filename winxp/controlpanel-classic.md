@@ -12,4 +12,4 @@
 
 ![img](img/winxp-conf003.png "img")
 
-[目次に戻る](../)
+[目次に戻る](../index.md)

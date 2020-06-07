@@ -26,4 +26,4 @@ WindowsXPのエクスプローラーのツールバーはサイズが過大な�
 
 ![img](img/winxp-conf008.png "img")
 
-[目次に戻る](../)
+[目次に戻る](../index.md)
