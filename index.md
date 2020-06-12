@@ -1,23 +1,23 @@
-# 目次
+# Index
 
-本サイトではコンピュータソフトウェアのCaldia式標準設定を紹介します。
+本サイトではコンピュータソフトウェアのCaldia式設定を紹介します。
 
-## Windows10
+
+## Windows
+
+### Windows10
 
 - [Windows10のインストール](win10/install.md)
 
-
-## Windows8.1
+### Windows8.1
 
 - [Windows8.1のインストール](win81/install.md)
 
-
-## Windows7
+### Windows7
 
 - [Windows7のインストール](win7/install.md)
 
-
-## WindowsXP
+### WindowsXP
 
 - [WindowsXPのインストール](winxp/install.md)
 - [コントロールパネルをクラシック表示に切り替える](winxp/controlpanel-classic.md)
@@ -32,3 +32,7 @@
 - [デバッグの書き込みなし](winxp/debug-disabled.md)
 - [仮想メモリをシステム管理サイズ](winxp/virtual-memory-system-size.md)  
 -->
+
+## Github Pages
+
+- [Github Pagesの利用方法](githubpages/install.md)
