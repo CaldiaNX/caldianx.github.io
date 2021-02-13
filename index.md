@@ -1,9 +1,6 @@
-# Caldia Memo
-
 ## 鉄道模型シミュレーター
 - [VRMNXファイル連携システム](https://github.com/CaldiaNX/vrmnxfls)
 - [VRMNXパワーユニットくん](https://github.com/CaldiaNX/vrmnx-powerunit)
-
 
 ## Operating System
 
@@ -38,4 +35,4 @@
 
 ----
 
-[元のgithubページ](https://github.com/CaldiaNX/caldianx.github.io/tree/master/githubpages)
+[元のgithubページ](https://github.com/CaldiaNX/caldianx.github.io)
