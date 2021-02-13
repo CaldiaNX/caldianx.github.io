@@ -1,27 +1,25 @@
-# Index
+# Caldia Memo
 
-本サイトではコンピュータソフトウェアのCaldia式設定を紹介します。
+## 鉄道模型シミュレーター
+- [VRMNXファイル連携システム](https://github.com/CaldiaNX/vrmnxfls)
+- [VRMNXパワーユニットくん](https://github.com/CaldiaNX/vrmnx-powerunit)
 
 
-## Windows
+## Operating System
 
 ### Windows10
-
-- [Windows10のインストール](win10/install.md)
+- [Windows10のインストール](os/windows10/install.md)
 
 ### Windows8.1
-
-- [Windows8.1のインストール](win81/install.md)
+- [Windows8.1のインストール](os/windows81/install.md)
 
 ### Windows7
-
-- [Windows7のインストール](win7/install.md)
+- [Windows7のインストール](os/windows7/install.md)
 
 ### WindowsXP
-
-- [WindowsXPのインストール](winxp/install.md)
-- [コントロールパネルをクラシック表示に切り替える](winxp/controlpanel-classic.md)
-- [エクスプローラーをスリム化する](winxp/explorer-slim.md)
+- [WindowsXPのインストール](os/windowsxp/install.md)
+- [WindowsXPのコントロールパネルをクラシック表示に切り替える](winxp/controlpanel-classic.md)
+- [WindowsXPのエクスプローラーをスリム化する](winxp/explorer-slim.md)
 
 <!--  
 - [Windowsコンポーネントの追加と削除](winxp/default-disabled.md)
@@ -33,6 +31,11 @@
 - [仮想メモリをシステム管理サイズ](winxp/virtual-memory-system-size.md)  
 -->
 
-## Github Pages
+## Application Service
+- [Github Pagesの利用方法](app/githubpages/install.md)
+- [Git for Windows](app/git-for-windows/install.md)
+- [Caldiaの自作パソコン構成履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer)
 
-- [Github Pagesの利用方法](githubpages/install.md)
+----
+
+[元のgithubページ](https://github.com/CaldiaNX/caldianx.github.io/tree/master/githubpages)
