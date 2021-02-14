@@ -3,17 +3,12 @@
 - [VRMNXパワーユニットくん](https://github.com/CaldiaNX/vrmnx-powerunit)
 
 ## Operating System
-
-### Windows10
 - [Windows10のインストール](os/windows10/install.md)
 
-### Windows8.1
 - [Windows8.1のインストール](os/windows81/install.md)
 
-### Windows7
 - [Windows7のインストール](os/windows7/install.md)
 
-### WindowsXP
 - [WindowsXPのインストール](os/windowsxp/install.md)
 - [WindowsXPのコントロールパネルをクラシック表示に切り替える](winxp/controlpanel-classic.md)
 - [WindowsXPのエクスプローラーをスリム化する](winxp/explorer-slim.md)
