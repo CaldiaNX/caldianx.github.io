@@ -10,17 +10,17 @@
 - [Windows8.1のインストール](os/windows81/install.md)
 - [Windows7のインストール](os/windows7/install.md)
 - [WindowsXPのインストール](os/windowsxp/install.md)
-- [WindowsXPのコントロールパネルをクラシック表示に切り替える](windowsxp/controlpanel-classic.md)
-- [WindowsXPのエクスプローラーをスリム化する](windowsxp/explorer-slim.md)
+- [WindowsXPのコントロールパネルをクラシック表示に切り替える](os/windowsxp/controlpanel-classic.md)
+- [WindowsXPのエクスプローラーをスリム化する](os/windowsxp/explorer-slim.md)
 
 <!--  
-- [Windowsコンポーネントの追加と削除](winxp/default-disabled.md)
-- [リモートアシスタンスの無効化](winxp/remote-assistant-disabled.md)
-- [リモートデスクトップの有効化](winxp/remote-desktop-disabled.md)
-- [システムの復元を無効化](winxp/system-backup-disabled.md)
-- [エラー報告を無効にする](winxp/error-report-disabled.md)
-- [デバッグの書き込みなし](winxp/debug-disabled.md)
-- [仮想メモリをシステム管理サイズ](winxp/virtual-memory-system-size.md)  
+- [Windowsコンポーネントの追加と削除](os/windowsxp/default-disabled.md)
+- [リモートアシスタンスの無効化](os/windowsxp/remote-assistant-disabled.md)
+- [リモートデスクトップの有効化](os/windowsxp/remote-desktop-disabled.md)
+- [システムの復元を無効化](os/windowsxp/system-backup-disabled.md)
+- [エラー報告を無効にする](os/windowsxp/error-report-disabled.md)
+- [デバッグの書き込みなし](os/windowsxp/debug-disabled.md)
+- [仮想メモリをシステム管理サイズ](os/windowsxp/virtual-memory-system-size.md)  
 -->
 
 ## Application Service
