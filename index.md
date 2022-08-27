@@ -2,14 +2,15 @@
 - [VRMNXベンチマーク](https://github.com/CaldiaNX/vrmnx-benchmark)
 - [VRMNXファイル連携システム](https://github.com/CaldiaNX/vrmnxfls)
 - [VRMNXパワーユニットくん](https://github.com/CaldiaNX/vrmnx-powerunit)
+- [VRMNX太陽シミュレータ](https://github.com/CaldiaNX/vrmnx-sun-simulation)
 
 ## Operating System
 - [Windows10のインストール](os/windows10/install.md)
 - [Windows8.1のインストール](os/windows81/install.md)
 - [Windows7のインストール](os/windows7/install.md)
 - [WindowsXPのインストール](os/windowsxp/install.md)
-- [WindowsXPのコントロールパネルをクラシック表示に切り替える](winxp/controlpanel-classic.md)
-- [WindowsXPのエクスプローラーをスリム化する](winxp/explorer-slim.md)
+- [WindowsXPのコントロールパネルをクラシック表示に切り替える](windowsxp/controlpanel-classic.md)
+- [WindowsXPのエクスプローラーをスリム化する](windowsxp/explorer-slim.md)
 
 <!--  
 - [Windowsコンポーネントの追加と削除](winxp/default-disabled.md)
@@ -22,9 +23,14 @@
 -->
 
 ## Application Service
+<!--  
 - [Github Pagesの利用方法](app/githubpages/install.md)
 - [Git for Windows](app/git-for-windows/install.md)
+-->
 - [Caldiaの自作パソコン構成履歴](https://github.com/CaldiaNX/caldia-homebuilt-computer)
+
+## その他
+- [VMGファイル(ガラケーメール)変換ツール](https://github.com/CaldiaNX/vmg-output)
 
 ----
 
