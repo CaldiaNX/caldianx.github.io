@@ -88,7 +88,7 @@ INFO    -  Writing initial docs: MkDocsSample\docs\index.md
 
 index.mdはMarkdown形式のテキストファイルです。
 
-![MkDocs index.md](img\mkdocs01.png "MkDocs index.md")
+![MkDocs index.md](img/mkdocs01.png "MkDocs index.md")
 
 ## プロジェクトのビルド
 
@@ -103,7 +103,7 @@ INFO    -  Building documentation to directory: C:\Python\MkDocsSample\site
 INFO    -  Documentation built in 0.22 seconds
 ```
 
-![MkDocs index.html ブラウザ表示](img\mkdocs02.png "MkDocs indexl.html ブラウザ表示")
+![MkDocs index.html ブラウザ表示](img/mkdocs02.png "MkDocs indexl.html ブラウザ表示")
 
 mdファイルの修正や作成とbuildを繰り返して作業します。
 
@@ -111,7 +111,7 @@ mdファイルの修正や作成とbuildを繰り返して作業します。
 
 HTMLファイルのサイト内リンクはディレクトリパスを参照するため、リンク移動すると下記のようなディレクトリ画面が表示されてしまうため、サイト内の移動がやや面倒です。
 
-![MkDocs ディレクトリ表示](img\mkdocs03s.png "MkDocs ディレクトリ表示")
+![MkDocs ディレクトリ表示](img/mkdocs03s.png "MkDocs ディレクトリ表示")
 
 `mkdocs serve` コマンドを使うとローカルでHTTPサーバサービスが起動します。
 アドレスが表示される（下記では [http://127.0.0.1:8000](http://127.0.0.1:8000) ）のでWebブラウザで表示します。  

@@ -11,14 +11,13 @@ site_description: 'MkDocsの導入手順を解説。'
 # metaのauthor属性。サイト管理者名
 site_author: 'Caldia'
 # metaのcanonical属性。HTMLを表示するサイトのトップページURL
-site_url: 'https://caldia.tuzikaze.com/mkdocs/'
+site_url: 'https://caldia.tuzikaze.com/'
 # Copyright。HTMLのフッター。無くても良い。書式も特に決まりはない
-copyright: 'Copyright (c) 2006 - 2019 Caldia All rights reserved.'
+copyright: 'Copyright (c) 2006 - 2022 Caldia All rights reserved.'
 # サイトの構成。（旧版のpages）
 # ページを追加する場合はここにページ名とファイル名を記載
 nav:
     - 'はじめに': index.md
-    - 'Notepad++のインストール': install-notepadpp.md
     - 'Pythonのインストール': install-python.md
     - 'MkDocsのインストール': install-mkdocs.md
     - 'Markdownのサンプル': markdown-sample.md

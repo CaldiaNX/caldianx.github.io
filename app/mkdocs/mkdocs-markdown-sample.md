@@ -223,9 +223,9 @@ Left         | Center        | Right
 [yellow]: img\sample_yellow.png "黄色"
 ```
 
-![赤](img\sample_red.png "赤色") ![青][blue] [![緑](img\sample_green.png "緑色ファイルにリンク")](img\sample_green.png) [![黄](img\sample_yellow.png "黄色ファイルにリンク")][yellow]
-[blue]:img\sample_blue.png "青色"
-[yellow]: img\sample_yellow.png "黄色"
+![赤](img/sample_red.png "赤色") ![青][blue] [![緑](img/sample_green.png "緑色ファイルにリンク")](img/sample_green.png) [![黄](img/sample_yellow.png "黄色ファイルにリンク")][yellow]
+[blue]:img/sample_blue.png "青色"
+[yellow]: img/sample_yellow.png "黄色"
 
 ## エスケープ
 

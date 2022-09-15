@@ -55,8 +55,8 @@ theme:
 
 ビルドすることでデザインが変化します。
 
-![MkDocs index.html](img\mkdocs02s.png "mkdocs-material適用前")
-![MkDocs-Material index.html](img\material01s.png "MkDocs-Material適用後")
+![MkDocs index.html](img/mkdocs02s.png "mkdocs-material適用前")
+![MkDocs-Material index.html](img/material01s.png "MkDocs-Material適用後")
 
 ## Materialの拡張設定
 
