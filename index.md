@@ -22,7 +22,6 @@
 - [エラー報告を無効にする](os/windowsxp/error-report-disabled.md)
 - [デバッグの書き込みなし](os/windowsxp/debug-disabled.md)
 - [仮想メモリをシステム管理サイズ](os/windowsxp/virtual-memory-system-size.md)  
--->
 
 ## Application Guide
 - [Pythonのインストール](app/mkdocs/python-windows-install.md)
@@ -30,6 +29,7 @@
 - [Materialのインストール](app/mkdocs/mkdocs-material-install.md)
 - [mkdocs.ymlのサンプル](app/mkdocs/mkdocs-yml-sample.md)
 - [Markdownのサンプル](app/mkdocs/markdown-sample.md)
+-->
 
 ## Memo
 <!--  
